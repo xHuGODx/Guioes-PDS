@@ -1,0 +1,3 @@
+Após uma análise da classe Calendar, é evidente que, apesar de ser uma classe abstrata, ela apresenta dois construtores protegidos, o que impede sua instanciação direta.
+
+O primeiro construtor protegido é responsável por criar um calendário com a timezone e locale padrão do sistema, enquanto o segundo construtor protegido permite a criação de um calendário com timezones e locales específicos. Estes construtores são destinados a serem utilizados pelas subclasses de Calendar, as quais implementam calendários específicos de cada país.

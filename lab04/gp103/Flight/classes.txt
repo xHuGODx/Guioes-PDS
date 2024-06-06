@@ -1,0 +1,31 @@
+avião -> lugares para a classe turística
+      -> opcional, lugares para a classe executiva
+
+voo -> código alfanumérico
+    -> associado um avião com determinada configuração
+
+numeroLugares -> 'numFilasxnumLugares'
+
+classe (enum: Turistíca / Executiva) 
+
+banco -> em cada fila temos uma lista de bancos começando em A
+
+matriz Retangular com -1 nos sitios onde a classe Executiva não tem lugares
+ou
+duas matrizes: uma matriz executiva e uma matriz turistica com os tamanhos certos
+
+reserva -> enum Turistíca / Executiva
+        -> num_passageiros
+        -> código da reserva no formato flight_code:sequential_reservation_number
+        -> posicao de cada passageiro dessa reserva (lista com tuples por exemplo)  
+
+
+Verificar se o ficheiro de texto está bem formatado.
+
+Verificar primeiro elemento para verificar se há listas vazias         
+
+2 classes + alto nível:
+- FlightManager: 
+- UserInterface: consoante a opção do utilizador pede ao FlightManager para fazer algo.
+
+- ReadFile
