@@ -1,9 +1,0 @@
-Hello, this is a test file.
-It contains a variety of words for testing purposes.
-Some words have accents, like café or naïve.
-Other words are in ALL CAPS.
-There are also words_with_underscores.
-And words-with-hyphens.
-There are even words with special characters, like $100 or #hashtag.
-Finally, there are words with numbers, like 123abc or abc123.
-Sentence with no period

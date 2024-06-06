@@ -1,4 +1,0 @@
-hamburger;
-cheeseburger;
-Bigmac whopper;
-Dune;

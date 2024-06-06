@@ -1,5 +1,0 @@
-mesa
-cadeira
-teclado
-rato
-tapete

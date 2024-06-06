@@ -1,5 +1,0 @@
-vermelho
-amarelo
-verde
-azul,roxo,preto,branco,castanho
-rosa;laranja

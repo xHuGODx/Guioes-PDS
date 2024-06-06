@@ -1,2 +1,0 @@
-programming;java;words lines civic
-test;stack;
